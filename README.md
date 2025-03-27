@@ -40,9 +40,10 @@ GreenVest is a mobile investment platform that connects new gen investors with s
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="assets/screenshot1.png" width="200" alt="Home Screen"/>
-  <img src="assets/screenshot2.png" width="200" alt="Project Details"/>
-  <img src="assets/screenshot3.png" width="200" alt="Investment Flow"/>
+  <img src="assets/images/Screenshot_20250325-170227_Expo Go.jpg" width="200" alt="Welcome Screen"/>
+  <img src="assets/images/Screenshot_20250325-170235_Expo Go.jpg" width="200" alt="Login Page"/>
+  <img src="assets/images/Screenshot_20250325-170329_Expo Go.jpg" width="200" alt="Investment Flow"/>
+  <img src="assets/images/Screenshot_20250325-170637_Expo Go.jpg" width="200" alt="Investment Flow"/>
 </p>
 
 ## 🌿 Features in Detail
