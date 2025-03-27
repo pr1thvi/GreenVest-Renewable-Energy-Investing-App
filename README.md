@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/074b6f71-fa5d-402b-a1ce-2bea7b1c2562)# GreenVest - Powering Tomorrow's Sustainability 🌱
+# GreenVest - Powering Tomorrow's Sustainability 🌱
 
 <p align="center">
   <img src="assets/greenvest-logo.png" alt="GreenVest Logo" width="200"/>
