@@ -1,7 +1,7 @@
 # GreenVest - Powering Tomorrow's Sustainability 🌱
 
 <p align="center">
-  <img src="assets/greenvest-logo.png" alt="GreenVest Logo" width="200"/>
+  <img src="assets/images/image.jpg" alt="GreenVest Logo" width="200"/>
 </p>
 
 [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
