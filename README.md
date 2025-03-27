@@ -60,7 +60,7 @@ GreenVest is a mobile investment platform that connects new gen investors with s
 
 ## 📞 Contact
 
-Your Name - [@prithveei](https://x.com/prithveei) - prithvimarwadiwork@gmail.com
+Prithvi Marwadi - [@prithveei](https://x.com/prithveei) - prithvimarwadiwork@gmail.com
 
 ---
 
